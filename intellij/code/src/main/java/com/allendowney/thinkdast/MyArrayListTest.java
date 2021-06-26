@@ -1,8 +1,8 @@
 package com.allendowney.thinkdast;
 
-//import static org.junit.Assert.*;
-import static org.junit.Assert.assertThat;
-import static org.junit.Assert.fail;
+import static org.junit.Assert.*;
+//import static org.junit.Assert.assertThat;
+//import static org.junit.Assert.fail;
 import static org.hamcrest.CoreMatchers.*;
 
 import java.util.ArrayList;

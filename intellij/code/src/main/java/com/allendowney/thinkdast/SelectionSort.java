@@ -38,6 +38,7 @@ public class SelectionSort {
 	 * Sorts the cards (in place) using selection sort.
 	 */
 	public static void selectionSort(int[] array) {
+
 		for (int i = 0; i < array.length; i++) {
 			int j = indexLowest(array, i);
 			swapElements(array, i, j);
