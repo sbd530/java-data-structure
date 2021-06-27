@@ -26,7 +26,7 @@ public class MyTreeMapExample {
 	 * @param n 
 	 */
 	private static void putRandomStrings(int n) {
-		// MyTreeMap<String, Integer> map = new MyTreeMap<String, Integer>();
+		// MyTreeMap<String, Integer> map = new MyTreeMap<String, Intege/r>();
 		TreeMap<String, Integer> map = new TreeMap<String, Integer>();
 		
 		final long startTime = System.currentTimeMillis();		
